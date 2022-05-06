@@ -1,4 +1,4 @@
-usuarios:{
+usuarios:[
   {
     "id": 1,
     "name": "Betho Graham",
@@ -229,4 +229,4 @@ usuarios:{
       "bs": "target end-to-end models"
     }
   }
-}
+]
